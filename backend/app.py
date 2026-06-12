@@ -30,7 +30,7 @@ DB_CONFIG = {
     'host': 'localhost',
     'port': 3306,
     'user': 'root',
-    'password': 'Rikka666',
+    'password': '******',
     'database': 'firedec',
     'charset': 'utf8mb4',
     'cursorclass': pymysql.cursors.DictCursor
